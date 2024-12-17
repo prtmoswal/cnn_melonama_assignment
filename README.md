@@ -1,6 +1,4 @@
-# cnn_melonama_assignment
-## upgrad cnn melonama prediction assignment
-# Melanoma-CNN-Prediction
+# Upgrad CNN Melanoma Detection Assignment
 
 #### Problem Statement
 In this assignment, you will build a multiclass classification model using a custom convolutional neural network in tensorflow.
